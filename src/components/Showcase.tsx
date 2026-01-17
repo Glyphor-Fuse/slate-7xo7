@@ -3,56 +3,17 @@ export default function Showcase() {
     {
       title: "Akami",
       desc: "Bluefin Tuna",
-      img: "<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/11255187/pexels-photo-11255187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" 
-    alt="Gray concrete paving stones in an interlocking pattern creating a textured surface."
-    width="4096"
-    height="4096"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/photograph-of-paving-stones-11255187/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Seamlesstextures on Pexels
-    </a>
-  </div>
-</div>"
+      img: "https://images.pexels.com/photos/11255187/pexels-photo-11255187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       title: "Uni",
       desc: "Sea Urchin",
-      img: "<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/7243416/pexels-photo-7243416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" 
-    alt="Close-up of appetizing vegetable sushi rolls garnished on a black plate, perfect for Asian cuisine enthusiasts."
-    width="4000"
-    height="4000"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/close-up-shot-of-a-delicious-sushi-on-a-black-plate-7243416/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Emmanuel Zua on Pexels
-    </a>
-  </div>
-</div>"
+      img: "https://images.pexels.com/photos/7243416/pexels-photo-7243416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       title: "Kohada",
       desc: "Gizzard Shad",
-      img: "<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/14469273/pexels-photo-14469273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" 
-    alt="Delicious crispy sushi rolls topped with fried ingredients served on a wooden tray in a restaurant setting."
-    width="4083"
-    height="4083"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/close-up-shot-of-slices-of-sushi-14469273/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Alan Retano on Pexels
-    </a>
-  </div>
-</div>"
+      img: "https://images.pexels.com/photos/14469273/pexels-photo-14469273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ];
 

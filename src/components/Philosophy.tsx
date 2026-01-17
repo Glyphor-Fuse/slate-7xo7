@@ -25,20 +25,7 @@ export default function Philosophy() {
 
           <div className="pt-4">
             <img 
-              src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/30705879/pexels-photo-30705879.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
-    alt="Macro shot of a pen writing a signature on white paper, emphasizing precision."
-    width="4000"
-    height="3000"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/close-up-of-pen-writing-on-paper-with-signature-30705879/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Muhammed Shafiqul  Islam on Pexels
-    </a>
-  </div>
-</div>" 
+              src="https://images.pexels.com/photos/30705879/pexels-photo-30705879.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
               alt="Chef Signature" 
               className="h-16 opacity-60 invert"
             />
@@ -50,20 +37,7 @@ export default function Philosophy() {
         <div className="order-1 md:order-2 relative group">
           <div className="absolute top-4 -right-4 w-full h-full border border-gold/20 z-0 transition-transform duration-700 group-hover:translate-x-2 group-hover:-translate-y-2"></div>
           <img 
-            src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/3296395/pexels-photo-3296395.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
-    alt="Close-up of a chef slicing fresh tuna on a wooden board in a kitchen."
-    width="2832"
-    height="4240"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/person-slicing-fish-meat-3296395/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by cottonbro studio on Pexels
-    </a>
-  </div>
-</div>" 
+            src="https://images.pexels.com/photos/3296395/pexels-photo-3296395.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
             alt="Chef Precision" 
             className="relative z-10 w-full aspect-[3/4] object-cover grayscale hover:grayscale-0 transition-all duration-700 ease-in-out"
           />
